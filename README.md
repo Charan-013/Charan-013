@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charan-013" alt="charan-013" /></a> </p>
 
 - 🌱 I’m currently learning ...IT Tools
-- 
+  
 - 📫 How to reach me ...No Don't reach me
   
 - 😄 Pronouns: ...He/Him
